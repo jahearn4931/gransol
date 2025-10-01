@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FD6B0F8-7641-4714-875D-14CCCAB97BB9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gransol/GameModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 8de7f2e98dead10d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of gransol.GameModel.stack1 : gransol.cardstack"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 1b4b40f306525927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.stack1.getter : gransol.cardstack"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - c3bcb24078232d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.stack1.setter : gransol.cardstack"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 1d53ba0de65090c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.stack1.modify : gransol.cardstack"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 8a176a93dc18e453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.stack1.modify : gransol.cardstack with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 1cdf8314b91c4078"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.$stack1.getter : Combine.Published&lt;gransol.cardstack&gt;.Publisher"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - a72b81b48422b874"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.$stack1.setter : Combine.Published&lt;gransol.cardstack&gt;.Publisher"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 986b33f302bad168"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.$stack1.modify : Combine.Published&lt;gransol.cardstack&gt;.Publisher"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "6C96F911-D76E-4434-97F6-E2564D7D09B2 - 3588b56bd2ce52bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gransol.GameModel.$stack1.modify : Combine.Published&lt;gransol.cardstack&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "gransol"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewhearn/Documents/LITTLE%20SHOES%20Software/gransol/gransol/GameModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EBBEA7B-F401-4504-8CE9-14EE344A6F68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gransol/GameModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91251BBA-DADA-4659-8895-FCE2C1F5758C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gransol/GameModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "426"
+            endingLineNumber = "426"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDA97301-E5F3-4910-B8B7-4EA70DC7A19B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gransol/GameModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "517"
+            endingLineNumber = "517"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
